@@ -168,7 +168,6 @@ public class GameController {
         System.out.println("                - Tuhan YME");
         System.out.println("              - Mamah & Papah");
         System.out.println("                - Kost Haqi");
-        System.out.println("           - Kopi Aren dari Ratu");
         System.out.println("\n  © 2023 Julay'sCorp. All rights reserved.");
         System.out.println("==============================================\n\n");
     }
